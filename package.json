@@ -1,0 +1,30 @@
+{
+  "name": "gulp_landing",
+  "version": "1.0.0",
+  "description": "This is gulp_landing-page",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp.spritesmith": "^6.11.0",
+    "gulp-rename": "^2.0.0",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTosia/gulp_project.git"
+  },
+  "author": "iTosia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTosia/gulp_project/issues"
+  },
+  "homepage": "https://github.com/iTosia/gulp_project#readme"
+}
