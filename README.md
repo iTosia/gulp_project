@@ -18,6 +18,6 @@
 
 ## Интсрукция для старта проекта:
 * Склонировать данный репозиторий
-> git clone https://github.com/iTosia/gulp_landing.git
+> git clone https://github.com/iTosia/gulp_project.git
 
 * Запустить команду npm install в терминале. Данная команда ставит вск пакеты, которые указанны в файле package.json, а также все из зависимости.
