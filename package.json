@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iTosia/gulp_landing.git"
+    "url": "git+https://github.com/iTosia/gulp_project.git"
   },
   "author": "iTosia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iTosia/gulp_landing/issues"
+    "url": "https://github.com/iTosia/gulp_project/issues"
   },
-  "homepage": "https://github.com/iTosia/gulp_landing#readme"
+  "homepage": "https://github.com/iTosia/gulp_project#readme"
 }
